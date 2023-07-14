@@ -8,7 +8,7 @@ public class Ex4 {
         for(int i=1;i<=num;i++){ 
             for(int j=num;j>=1;j--){
                 if(i>=j){
-                     System.out.print(" *nnn");
+                     System.out.print(" *");
                 }
                 else{
                      System.out.print(" ");
